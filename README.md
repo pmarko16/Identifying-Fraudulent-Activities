@@ -9,4 +9,4 @@ Machine Learning really excels at identifying fraudulent activities. Any website
 
 pmarkoo/Coursera-Machine-Learning forked from JWarmenhoven/Coursera-Machine-Learning
   
-<A href='http://nbviewer.ipython.org/github/pmarkoo/Identifying-Fraudulent-Activities/card.ipynb'>My Analysis</A><BR>
+<A href='http:www.github/pmarkoo/Identifying-Fraudulent-Activities/card.ipynb'>My Analysis</A><BR>
