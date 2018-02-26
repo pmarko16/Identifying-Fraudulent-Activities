@@ -4,6 +4,9 @@ Predicting Fraud in Electronic Commerce:  Fraud  Detection Techniques in E-Comme
 ## Short description
 The following problem has been proposed to participants in the case study of a company whose name I won't mention. As we will see,
 given training and test data sets don't contain enough information and correlation for constructing an efficient prediction model.
+Having only training set in mind (if we hadn't test set from some reason), it is possible to construct simle model which behaves nice on this trainig set but almost completely fails on test data set.
+
+[Kaggle](https://www.kaggle.com/) platform contains similar type of the problem called [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud), which represents easier and more predictable version.
 
 ## Goal
 E-commerce websites often transact huge amounts of money. Whenever a huge
