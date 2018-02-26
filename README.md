@@ -1,6 +1,10 @@
 # Identifying-Fraudulent-Activities
 Predicting Fraud in Electronic Commerce:  Fraud  Detection Techniques in E-Commerce
 
+## Short description
+The following problem has been proposed to participants in the case study of a company whose name I won't mention. As we will see,
+given training and test data sets don't contain enough information and correlation for constructing an efficient prediction model.
+
 ## Goal
 E-commerce websites often transact huge amounts of money. Whenever a huge
 amount of money is moved, there is a high risk of users performing fraudulent activities, e.g. using stolen credit cards, doing money laundry, etc. 
